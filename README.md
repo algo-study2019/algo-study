@@ -13,7 +13,7 @@
 - 모임 시간
   - 왠만하면 주말
 - 교재 레퍼런스
-  - clrs와 clrs 강의노트 : pdf 파일로 제공해드립니다!!
+  - [clrs](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156641131&orderClick=LEA&Kc=)와 clrs 강의노트 : pdf 파일로 제공해드립니다!!
   - (파이썬과 함께하는)자료구조의 이해 : 한국어 책
   - 꼭 가지고 있을 필요는 없습니다.
 - 레퍼런스 언어 : python3
