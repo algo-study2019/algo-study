@@ -3,12 +3,12 @@
 ## 스터디 목표
 
 1. 자료구조와 실용적인 알고리즘을 리뷰하는 기회
-  - PS를 위한 알고리즘 NO NO.
+    - PS를 위한 알고리즘 NO NO.
 2. 실제 코딩 테스트(기술면접)에 나오는 문제를 풀어보며 실전감각 UP
-  - [예시 : 2019 카카오 블라인드 채용 1차](http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/)
+    - [예시 : 2019 카카오 블라인드 채용 1차](http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/)
 3. 첫 단추를 잘 꿰는 한 해
-  - 대학생의 경우 : 3~4월부터 본격적으로 쏟아지는 각종 대회, 활동에서 노빠꾸 직진 가능
-  - 취준생의 경우 : 토익 만점/기사 취득한 듯한 든든함으로 하반기/내년 취준
+    - 대학생의 경우 : 3~4월부터 본격적으로 쏟아지는 각종 대회, 활동에서 노빠꾸 직진 가능
+    - 취준생의 경우 : 토익 만점/기사 취득한 듯한 든든함으로 하반기/내년 취준
 
 ## 권장사항(스터디 대상)
 
@@ -32,7 +32,7 @@
   - 주 1회 일요일 2시간 (*추후 변동*)
 - 레퍼런스 교재
   - [Introduction to Algorithm 3E(CLRS)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156641131&orderClick=LEA&Kc=)
-    - CLRS 강의노트 : 스터디 가입시 PDF 제공
+  - CLRS 강의노트 : 스터디 가입시 PDF 제공
   - [(파이썬과 함께하는)자료구조의 이해](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970509402&orderClick=LET&Kc=)
     - 한국인이 한국어로 씀.
     - 실제 언어에 내부적으로 구현된 최신(?) 자료구조까지 다룸
