@@ -38,7 +38,7 @@
   - instance variable: self.sth
   - constructor : init
 - basic grammar
-  - lsit: in C or jave, it's a dynamic array
+  - list: in C or java, it's a dynamic array
   - if
   - for, while
   - range
