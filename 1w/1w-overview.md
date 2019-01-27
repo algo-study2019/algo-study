@@ -158,3 +158,25 @@
 - [기능 개발](dev.py)
 - [탑](top.py)
 - [주식가격](stock.py)
+
+## 6. advanced
+
+### 6-1 hash table = dictionary
+
+### 6-2 sort
+
+### 6-3 tree
+
+- bfs / dfs
+
+### 6-4 graph
+
+- graph
+- mst
+- 최단거리
+
+### 6-5 algorithm
+
+- exhaustive search
+- DP
+- Grid
